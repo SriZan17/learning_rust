@@ -1,0 +1,7 @@
+*target/
+*.lock
+*.toml
+*.exe
+*.pdb
+.vscode
+*.pdf
