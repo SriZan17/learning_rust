@@ -1,4 +1,4 @@
-22
+44
 https://github.com/rust-lang/book/tree/main/src
 
 Get documentation:
@@ -6,6 +6,7 @@ $rustup doc
 
 To format code:
 $cargo fmt
+$cargo doc open
 
 To attempt to auto fix code:
 $cargo fix
